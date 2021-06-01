@@ -1,6 +1,6 @@
 # Y3-CompVision-CW
 
-Image classification for Computer Vision Y3 Module (Group Project)
+Image classification for Computer Vision Y3 Module Coursework (Group Project)
 
 # Objectives
 Apply object detection and image classification techniques to detect oil palm seeds that are present in an image and classify each of them into category of good or bad quality.
